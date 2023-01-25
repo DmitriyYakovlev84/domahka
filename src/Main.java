@@ -100,7 +100,7 @@ public class Main {
             System.out.println("Еще сатрудники компании"+empioys );
             var totalTime=empioys*workingDay;
             System.out.println("Поделеное время"+totalTime );
-            System.out.println(" «Если в компании работает 174 человек, то всего 1392 часов работы может быть поделено между сотрудниками»." );
+            System.out.println(" «Если в компании работает 174 человек, то всего 1392 часов работы может быть поделено  между сотрудниками»." );
 
     }
     }
